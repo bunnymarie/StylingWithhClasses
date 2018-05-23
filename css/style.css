@@ -3,25 +3,15 @@ body {
   background-repeat: repeat;
 }
 
-p.intro {
-  width: 50%;
-  font-style: italic;
-}
-
 p.author {
   width: 75%;
   font-style: italic;
-  font-weight: bold;
 }
 
-h1.intro {
-  font-weight: bold;
+div.intro {
+  width: 50%;
   color: red;
   font-family: 'Homemade Apple', cursive;
-}
-
-h2.intro {
-  font-family: arial;
   font-weight: lighter;
   font-style: italic;
 }
